@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="watch_video">Watch video</string>
+    <string name="measure">Measure</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instruction">Instruction</string>
+    <string name="category">Category</string>
+    <string name="area">Area</string>
+    <string name="meal_removed_from_favorites">Meal remoted</string>
+    <string name="meal_saved_in_favorites">Meal saved</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="list">List</string>
+    <string name="details">Details</string>
+</resources>

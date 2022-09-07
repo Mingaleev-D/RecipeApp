@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рецепты</string>
+    <string name="watch_video">Посмотреть видео</string>
+    <string name="measure">Мера</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="instruction">Инструкция</string>
+    <string name="category">Категории: </string>
+    <string name="area">Область: </string>
+    <string name="meal_removed_from_favorites">Рецепт удален</string>
+    <string name="meal_saved_in_favorites">Рецепт сохранен</string>
+    <string name="search">Поиск</string>
+    <string name="favorite">Фаворит</string>
+    <string name="list">Лист</string>
+    <string name="details">Детали</string>
+</resources>
